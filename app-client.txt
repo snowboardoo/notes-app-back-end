@@ -1,0 +1,2 @@
+http://notesapp-v1.dicodingacademy.com/
+ini adalah aplikasi client yang digunakam ketika membangun sebuah backend-nya
